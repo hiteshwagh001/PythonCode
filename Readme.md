@@ -24,6 +24,3 @@ Contributions are welcome! If you find errors or want to improve examples, feel 
 ## Resources
 - [Python Official Documentation](https://docs.python.org/3/)
 - [Python Tutorial](https://www.geeksforgeeks.org/python-programming-language/)
-
-## License
-This repository is open-source and available under the MIT License.
