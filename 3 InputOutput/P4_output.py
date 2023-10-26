@@ -49,5 +49,3 @@ print("value of str = %s"%str)  #value of str = monster
 
 print("value of x={} and y={}".format(x,y))     #value of x=10 and y=20.67
 
-print("value of x = %d",x) # value of x = %d 10             this is not used as a formated data it not works       
-
